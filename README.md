@@ -1,8 +1,9 @@
 # Micro-Scientific-Calculator
+🚀 Overview:
 
 Welcome to the Scientific Calculator! This is a simple C++ console application that performs various mathematical operations. The calculator can handle addition, subtraction, multiplication, division, power, factorial, square, cube, and square root calculations.
 
-## Features
+✨Features
 
 - **Addition**: Add two numbers.
 - **Subtraction**: Subtract one number from another.
